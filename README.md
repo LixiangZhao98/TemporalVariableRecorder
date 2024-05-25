@@ -1,5 +1,5 @@
 # TemporalVariableRecorder
-======
+
 ![TemporalVariableRecorder_Img](https://raw.githubusercontent.com/LixiangZhao98/TemporalVariableRecorder/master/TemporalVariableRecorder.png "TemporalVariableRecorder_Img")
 
 Track and record ANY temporal variable in Unity easily!\
