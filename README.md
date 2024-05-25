@@ -1,6 +1,6 @@
 # TemporalVariableRecorder
 ======
-![TemporalVariableRecorder_Img](https://github.com/LixiangZhao98/MeTACAST/blob/master/TemporalVariableRecorder.png "TemporalVariableRecorder_Img")
+![TemporalVariableRecorder_Img](https://raw.githubusercontent.com/LixiangZhao98/TemporalVariableRecorder/master/TemporalVariableRecorder.png "TemporalVariableRecorder_Img")
 
 Track and record ANY temporal variable in Unity easily!\
 Want to monitor variables in the Unity Scene and generate the value report? Just add it! No coding!\
