@@ -10,4 +10,5 @@ But actually, it can be used to track any variable within the scene and generate
 # How to use
 - Add `TemporalVariableRecorder.cs` to the Unity Asset folder.
 - Drag-and-drop `TemporalVariableRecorder.cs` to a `GameObject`.
-
+- Start the game to start recording.
+- End game and the recording is in Asset/recording.csv
